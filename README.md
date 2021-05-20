@@ -3,7 +3,7 @@
 <!--
 **Bernard-yang1991/Bernard-yang1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={깃헙 주소(https://github.com/Bernard-yang1991)}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={(https://github.com/Bernard-yang1991)}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
